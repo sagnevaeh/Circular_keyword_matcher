@@ -10,8 +10,7 @@
 #   "CAS"      → matches "CAS" but NOT "CAST" or "cascade"
 # ============================================================
 
-KEYWORDS = [
-    "DR",                            # Disaster Recovery - Primary site switchover
+KEYWORDS = [                           # Disaster Recovery - Primary site switchover
     "DR PR",
     "rebalancing",                      # Index / portfolio rebalancing
     "Mandatory software version changes", # Software upgrade notices
